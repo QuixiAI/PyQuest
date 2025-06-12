@@ -7,7 +7,7 @@ Inspired by [Gameshell](https://github.com/phyver/GameShell), but designed entir
 
 ## 📜 What Is This?
 
-**PyREPLQuest** is a gamified curriculum that teaches Python *from the inside out* — through hands-on problem-solving, inside the Python REPL. Each level presents a challenge. When you solve it, you advance. Your progress is saved automatically.
+**PyQuest** is a gamified curriculum that teaches Python *from the inside out* — through hands-on problem-solving, inside the Python REPL. Each level presents a challenge. When you solve it, you advance. Your progress is saved automatically.
 
 ---
 
