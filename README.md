@@ -16,8 +16,8 @@ Inspired by [Gameshell](https://github.com/phyver/GameShell), but designed entir
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/pyreplquest.git
-cd pyreplquest
+git clone https://github.com/cognitivecomputations/pyquest.git
+cd pyquest
 ````
 
 ### 2. Start Python REPL
