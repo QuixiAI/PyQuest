@@ -16,7 +16,7 @@ Inspired by [Gameshell](https://github.com/phyver/GameShell), but designed entir
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/cognitivecomputations/pyquest.git
+git clone https://github.com/QuixiAI/PyQuest.git
 cd pyquest
 ````
 
